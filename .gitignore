@@ -5,6 +5,7 @@ __pycache__/
 
 #VS ignore
 .vs/
+.vs
 
 # C extensions
 *.so
